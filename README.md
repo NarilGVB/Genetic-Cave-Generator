@@ -1,2 +1,2 @@
-# Genetic-Cave-Generator
-It creates random caves using a genetic algorithm
+# Genetic Cave Generator
+It creates random caves using a genetic algorithm.
