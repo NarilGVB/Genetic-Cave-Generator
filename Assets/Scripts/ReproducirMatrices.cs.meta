@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d01c757c4fb306d41aba74733ebc0d21
+timeCreated: 1499525054
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mapGO: {instanceID: 0}
+  - inTile: {fileID: 1931102990111494, guid: 3fbd91d9fc62a3e4b86211c9d78dc6df, type: 2}
+  - outTile: {fileID: 1442907826735524, guid: de389569637566b44914e4c0134acf4c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
